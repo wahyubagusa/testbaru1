@@ -5,8 +5,14 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MOVIES",LOTUS MACAU
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-#EXTINF:-1 group-title="MOVIES " tvg-id="atv.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1591070449-.jpeg",ATV
+#EXTINF:-1 tvg-logo="https://media.zenfs.com/en/globenewswire.com/f8e44e0365b92650ee8319497363cb90" group-title="MOVIES",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1591070449-.jpeg" group-title="MOVIES",ATV
 https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brBwwhN/In-Shot-20240304-112427094.png" group-title="MOVIES",Zee World HD
+https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -177,10 +183,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/dish1.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBollyworld.in" tvg-name="ZeeBollyworld" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zee_entertainment_enterprises_logo.svg/1200px-Zee_entertainment_enterprises_logo.svg.png",Zee Bollyworld
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=o5yp&ads.env_i=ce730a3d-8a32-4aec-96d2-3b3dbd0b9269&ads.env_u=e0bee2bd-e755-4edb-920b-65203a7337c2&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=384&ads.height=216&ads.deviceId=e0bee2bd-e755-4edb-920b-65203a7337c2&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=e0bee2bd-e755-4edb-920b-65203a7337c2&ads.deviceMake=We
-
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Movies " ch-number="116" tvg-logo="https://media.zenfs.com/en/globenewswire.com/f8e44e0365b92650ee8319497363cb90",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="XTRM" tvg-name="" tvg-logo="https://i.ibb.co/dMSt5xX/xtrm.png" group-title="MOVIES", XTRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
