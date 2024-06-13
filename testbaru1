@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-id="Lokal" group-title="Lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" ch-number="92" group-logo="",TRANS TV 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzYwOTI0ODEiLCJyZWZyZXNoX3Rva2VuIjoiYXd4YWp1UWpKdG9USGROazhtbE5oQkNGSEpUN2xIa29zK1FVQUpmSEpINkJldHJUdlg5SjlPenkwRWhWSWFnUlR6dUFqUU5Yb0lqVFFTS09VV1BFV01sWCs5RkNHcG9KSmVublh5bmJHNlFKVGEzKytvYlpxNVlUVnZNU0wwTXZEZjNjSlFXXC9sdGRubTFhVmtnRHcxUCtrVnRYOSs2UzlDY1phUnJ5SFQzVlJIWlhVZHc2QVZRTzZ2V0dTQW4wQmtlUlpKUnNHRHcreklQVXFwcnd2RmZHazNWSlN4R3J6bzZma2RFUkFkTkszbWVhdFBoYURVS2FvbDc5ZnNGVUE1Q2lzUFJyanRtY1pPYnptYW1ZQTdVM0x5czlsY2dwVFRMTE90M3ZRUnZtQVcwV2YwejJub2VLQ2M4Y2ZiM3llUmtYTnNRYmhoS2E2SUtCK0c4cjlPRVFIbXN3NmpoUWtyNHpLQTVcL1wvUE5BPSJ9 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI
+#EXTINF:-1 group-title="NASIONAL-HD" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
