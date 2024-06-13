@@ -12,7 +12,9 @@
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMzYwOTI0ODEiLCJyZWZyZXNoX3Rva2VuIjoiYXd4YWp1UWpKdG9USGROazhtbE5oQkNGSEpUN2xIa29zK1FVQUpmSEpINkJldHJUdlg5SjlPenkwRWhWSWFnUlR6dUFqUU5Yb0lqVFFTS09VV1BFV01sWCs5RkNHcG9KSmVublh5bmJHNlFKVGEzKytvYlpxNVlUVnZNU0wwTXZEZjNjSlFXXC9sdGRubTFhVmtnRHcxUCtrVnRYOSs2UzlDY1phUnJ5SFQzVlJIWlhVZHc2QVZRTzZ2V0dTQW4wQmtlUlpKUnNHRHcreklQVXFwcnd2RmZHazNWSlN4R3J6bzZma2RFUkFkTkszbWVhdFBoYURVS2FvbDc5ZnNGVUE1Q2lzUFJyanRtY1pPYnptYW1ZQTdVM0x5czlsY2dwVFRMTE90M3ZRUnZtQVcwV2YwejJub2VLQ2M4Y2ZiM3llUmtYTnNRYmhoS2E2SUtCK0c4cjlPRVFIbXN3NmpoUWtyNHpLQTVcL1wvUE5BPSJ9 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI
-https://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 group-title="NASIONAL-HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI oke
 #EXTVLCOPT:http-user-agent=android-R+
