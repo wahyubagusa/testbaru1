@@ -515,56 +515,16 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================================================================
 #EXTINF:-1 group-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg"
 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 1
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive1.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", ,EURO24 2
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive2.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 3
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive3.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 4
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive4.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 5
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive5.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 6
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive6.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 7
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive7.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA",EURO24 8
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive8.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", EURO24 9
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive9.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", EURO24 10
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive10.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", EURO24 11
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive11.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", EURO24 12
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive12.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", EURO24 13
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive13.m3u8
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="PIALA EROPA", EURO24 14
-https://jihulab.com/Rinaldie22/playlist-iptv/-/raw/main/inallive14.m3u8
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+https://cors-proxy.cooks.fyi/http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&extension=ts
+https://cors-proxy.elfsight.com/https://cors-proxy.elfsight.com/http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=393118&extension=ts
 
 
------------------ VOLLY -----------------------------
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc1.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc2.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 3
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc3.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 4
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc4.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 5
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 6
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc6.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 7
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc7.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 8
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc8.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##🇮🇩LIVE VOLLY VNL🇮🇩##", LIVE 9
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc9.m3u8
 
 
 ------------------ BRI LIGA 1 ------------------------
