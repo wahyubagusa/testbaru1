@@ -414,20 +414,12 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/m
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",EURONEWS
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
-
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
-
-
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
@@ -582,6 +574,850 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+================================== USA TV =====================================
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US CBSN New York (D)
+http://117tv.icu:8080/live/X5xRz0/944877/46754.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US FOX Sports 1
+http://117tv.icu:8080/live/X5xRz0/944877/46792.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", Infowars
+http://117tv.icu:8080/live/X5xRz0/944877/78578.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US CHARGE!
+http://117tv.icu:8080/live/X5xRz0/944877/79594.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="USA TV", US  Court TV
+http://117tv.icu:8080/live/X5xRz0/944877/21092.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA TV", US Pop
+http://117tv.icu:8080/live/X5xRz0/944877/20976.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US UniMas
+http://117tv.icu:8080/live/X5xRz0/944877/57969.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png" group-title="USA TV", US Univision (East) (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/15336.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: A&E
+http://117tv.icu:8080/live/X5xRz0/944877/59056.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/ae.png" group-title="USA TV", US A&E (A)
+http://117tv.icu:8080/live/X5xRz0/944877/2201.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA TV", USA: ABC
+http://117tv.icu:8080/live/X5xRz0/944877/22990.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA TV", CA Adult Swim (R)
+http://117tv.icu:8080/live/X5xRz0/944877/11644.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Altitude Sports HD
+http://117tv.icu:8080/live/X5xRz0/944877/79545.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA TV", US AMC
+http://117tv.icu:8080/live/X5xRz0/944877/18925.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US American Heroes Channel
+http://117tv.icu:8080/live/X5xRz0/944877/10456.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="USA TV", US Animal Planet
+http://117tv.icu:8080/live/X5xRz0/944877/17870.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="USA TV", US Antenna TV
+http://117tv.icu:8080/live/X5xRz0/944877/20180.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Aspire (A)
+http://117tv.icu:8080/live/X5xRz0/944877/21927.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US AXS TV
+http://117tv.icu:8080/live/X5xRz0/944877/48324.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: Baby First HD
+http://117tv.icu:8080/live/X5xRz0/944877/58765.m3u8
+
+#EXTINF:-1 tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="USA TV", US BBC America
+http://117tv.icu:8080/live/X5xRz0/944877/20194.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US BET (East)
+http://117tv.icu:8080/live/X5xRz0/944877/46703.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: Bet Gospel
+http://117tv.icu:8080/live/X5xRz0/944877/66080.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="USA TV", US BET (East)
+http://117tv.icu:8080/live/X5xRz0/944877/13702.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: BET SOUL
+http://117tv.icu:8080/live/X5xRz0/944877/21844.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="USA TV", US Bloomberg
+http://117tv.icu:8080/live/X5xRz0/944877/15158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bounce XL
+http://117tv.icu:8080/live/X5xRz0/944877/48323.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="USA TV", US Bravo (East)
+http://117tv.icu:8080/live/X5xRz0/944877/20859.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US BUZZR (STV)
+http://117tv.icu:8080/live/X5xRz0/944877/21896.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Cartoon Network
+http://117tv.icu:8080/live/X5xRz0/944877/46708.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US CBS News
+http://117tv.icu:8080/live/X5xRz0/944877/21259.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: CMT
+http://117tv.icu:8080/live/X5xRz0/944877/46706.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="USA TV", USA: CMT HD
+http://117tv.icu:8080/live/X5xRz0/944877/10476.m3u8
+
+#EXTINF:-1 tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA TV", US CNBC
+http://117tv.icu:8080/live/X5xRz0/944877/9815.m3u8
+
+#EXTINF:-1 tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA TV", US CNBC World
+http://117tv.icu:8080/live/X5xRz0/944877/20860.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="USA TV", US CNN
+http://117tv.icu:8080/live/X5xRz0/944877/1817.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US CNN
+http://117tv.icu:8080/live/X5xRz0/944877/104884.m3u8
+
+#EXTINF:-1 tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="USA TV", US Comedy Central (East) (F)
+http://117tv.icu:8080/live/X5xRz0/944877/7466.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Comet (S)
+http://117tv.icu:8080/live/X5xRz0/944877/66244.m3u8
+
+#EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png" group-title="USA TV", US Cooking Channel
+http://117tv.icu:8080/live/X5xRz0/944877/9229.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA TV", US Cozi (H)
+http://117tv.icu:8080/live/X5xRz0/944877/11868.m3u8
+
+#EXTINF:-1 tvg-logo="https://decades.com/images/logo_tagline.png" group-title="USA TV", US Decades
+http://117tv.icu:8080/live/X5xRz0/944877/20189.m3u8
+
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/destination-america-new-logo.png" group-title="USA TV", US Destination America (A)
+http://117tv.icu:8080/live/X5xRz0/944877/14222.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Discovery Channel (East)
+http://117tv.icu:8080/live/X5xRz0/944877/46720.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/997920.png" group-title="USA TV", US Discovery Channel East
+http://117tv.icu:8080/live/X5xRz0/944877/9811.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="USA TV", USA: DISCOVERY FAMILY
+http://117tv.icu:8080/live/X5xRz0/944877/10538.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/997920.png" group-title="USA TV", USA: Discovery Life HD
+http://117tv.icu:8080/live/X5xRz0/944877/9861.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", CA Discovery Velocity HD
+http://117tv.icu:8080/live/X5xRz0/944877/46212.m3u8
+
+#EXTINF:-1 tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="USA TV", US DIY Network
+http://117tv.icu:8080/live/X5xRz0/944877/10503.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: DOGTV
+http://117tv.icu:8080/live/X5xRz0/944877/53539.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="USA TV", US E! Entertainment Television East
+http://117tv.icu:8080/live/X5xRz0/944877/11651.m3u8
+
+#EXTINF:-1 tvg-logo="https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png" group-title="USA TV", USA: Food Network HD
+http://117tv.icu:8080/live/X5xRz0/944877/7323.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.openthebooks.com/assets/1/6/Fox_Business1.png" group-title="USA TV", US Fox Business Network
+http://117tv.icu:8080/live/X5xRz0/944877/17639.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="USA TV", US Fox News
+http://117tv.icu:8080/live/X5xRz0/944877/1818.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA TV", US Freeform East
+http://117tv.icu:8080/live/X5xRz0/944877/13370.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Fuse
+http://117tv.icu:8080/live/X5xRz0/944877/46701.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US FX East
+http://117tv.icu:8080/live/X5xRz0/944877/46690.m3u8
+
+#EXTINF:-1 tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="USA TV", US FXM
+http://117tv.icu:8080/live/X5xRz0/944877/10260.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US FXX (East)
+http://117tv.icu:8080/live/X5xRz0/944877/46699.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="USA TV", US FYI
+http://117tv.icu:8080/live/X5xRz0/944877/9240.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Latin Galavision
+http://117tv.icu:8080/live/X5xRz0/944877/58770.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA TV", US GetTV
+http://117tv.icu:8080/live/X5xRz0/944877/18366.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png" group-title="USA TV", US Great American Country
+http://117tv.icu:8080/live/X5xRz0/944877/17640.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA TV", US Grit TV
+http://117tv.icu:8080/live/X5xRz0/944877/20861.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Hallmark Channel
+http://117tv.icu:8080/live/X5xRz0/944877/46719.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="USA TV", US Hallmark Drama
+http://117tv.icu:8080/live/X5xRz0/944877/9307.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="USA TV", US Hallmark Movies & Mysteries
+http://117tv.icu:8080/live/X5xRz0/944877/10289.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US HBO East HD
+http://117tv.icu:8080/live/X5xRz0/944877/46713.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Heroes & Icons (Los Angeles)
+http://117tv.icu:8080/live/X5xRz0/944877/66087.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", Infowars
+http://117tv.icu:8080/live/X5xRz0/944877/78578.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US HISTORY
+http://117tv.icu:8080/live/X5xRz0/944877/46724.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="USA TV", US History Channel
+http://117tv.icu:8080/live/X5xRz0/944877/15017.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.strivecloud.io/wp-content/uploads/2020/07/14143602/hln-273x202.png" group-title="USA TV", US HLN
+http://117tv.icu:8080/live/X5xRz0/944877/17748.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412745090/blg54azaoqz0cj3at5zd.png" group-title="USA TV", US IFC
+http://117tv.icu:8080/live/X5xRz0/944877/9272.m3u8
+
+#EXTINF:-1 tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png" group-title="USA TV", US insp
+http://117tv.icu:8080/live/X5xRz0/944877/16262.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US ID Investigation Discovery
+http://117tv.icu:8080/live/X5xRz0/944877/46810.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="USA TV", US ION
+http://117tv.icu:8080/live/X5xRz0/944877/9297.m3u8
+
+#EXTINF:-1 tvg-logo="https://sky21.com/wp-content/uploads/2019/02/LAFF.png" group-title="USA TV", US Laff (KNVA)
+http://117tv.icu:8080/live/X5xRz0/944877/17777.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Lifetime
+http://117tv.icu:8080/live/X5xRz0/944877/46714.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="USA TV", US Lifetime
+http://117tv.icu:8080/live/X5xRz0/944877/9275.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="USA TV", US Lifetime Movie
+http://117tv.icu:8080/live/X5xRz0/944877/2208.m3u8
+
+#EXTINF:-1 tvg-logo="https://n7.nextpng.com/sticker-png/347/134/sticker-png-logo-tv-television-channel-viacom-media-networks-others.png" group-title="USA TV", USA: LOGO TV
+http://117tv.icu:8080/live/X5xRz0/944877/20862.m3u8
+
+#EXTINF:-1 tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA TV", US MeTV Network East
+http://117tv.icu:8080/live/X5xRz0/944877/16149.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="USA TV", US MotorTrend (A)
+http://117tv.icu:8080/live/X5xRz0/944877/10399.m3u8
+
+#EXTINF:-1 tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA TV", US MSNBC (F)
+http://117tv.icu:8080/live/X5xRz0/944877/21376.m3u8
+
+#EXTINF:-1 tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA TV", US MSNBC
+http://117tv.icu:8080/live/X5xRz0/944877/9296.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/128/871/871009.png" group-title="USA TV", US MTV
+http://117tv.icu:8080/live/X5xRz0/944877/9818.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png" group-title="USA TV", US MTV2
+http://117tv.icu:8080/live/X5xRz0/944877/9308.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="USA TV", US Nat Geo Wild East (A)
+http://117tv.icu:8080/live/X5xRz0/944877/11664.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US National Geographic
+http://117tv.icu:8080/live/X5xRz0/944877/46722.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png" group-title="USA TV", US National Geographic (East)
+http://117tv.icu:8080/live/X5xRz0/944877/9277.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: NBC
+http://117tv.icu:8080/live/X5xRz0/944877/46687.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US NESN
+http://117tv.icu:8080/live/X5xRz0/944877/46726.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/54d11237dc9d300eb0bfcf2b596c820d1f513459a3a4d4b7f69716d69aebe8d0.png" group-title="USA TV", US Newsmax TV
+http://117tv.icu:8080/live/X5xRz0/944877/18939.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Nick Jr
+http://117tv.icu:8080/live/X5xRz0/944877/46710.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: NTD NEWS.
+http://117tv.icu:8080/live/X5xRz0/944877/53527.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US One America News
+http://117tv.icu:8080/live/X5xRz0/944877/21752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2018/06/TVA-19-June-5.png" group-title="USA TV", US Outdoor Channel
+http://117tv.icu:8080/live/X5xRz0/944877/9244.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iXofscZDL.png" group-title="USA TV", USA: OUTSIDE TV
+http://117tv.icu:8080/live/X5xRz0/944877/20865.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: OWN
+http://117tv.icu:8080/live/X5xRz0/944877/46698.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Oxygen (A)
+http://117tv.icu:8080/live/X5xRz0/944877/46695.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Oxygen_2008.png" group-title="USA TV", US Oxygen (East)
+http://117tv.icu:8080/live/X5xRz0/944877/9245.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="USA TV", US Paramount Network
+http://117tv.icu:8080/live/X5xRz0/944877/16201.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Paramount Network
+http://117tv.icu:8080/live/X5xRz0/944877/46694.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png" group-title="USA TV", US Paramount TV
+http://117tv.icu:8080/live/X5xRz0/944877/10464.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US PixL (S)
+http://117tv.icu:8080/live/X5xRz0/944877/21648.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Pursuit UP
+http://117tv.icu:8080/live/X5xRz0/944877/22888.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="USA TV", US Reelz
+http://117tv.icu:8080/live/X5xRz0/944877/10526.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Revolt
+http://117tv.icu:8080/live/X5xRz0/944877/39276.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/29/29694e6e70adeb8ed1c66a5f40c42af2.png" group-title="USA TV", US RFD-TV
+http://117tv.icu:8080/live/X5xRz0/944877/17868.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US GAC Living (S)
+http://117tv.icu:8080/live/X5xRz0/944877/75654.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", USA: AMC Thrillers
+http://117tv.icu:8080/live/X5xRz0/944877/66243.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="USA TV", US Discovery Science
+http://117tv.icu:8080/live/X5xRz0/944877/20866.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Smithsonian Channel (East)
+http://117tv.icu:8080/live/X5xRz0/944877/31150.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Sportsman Channel (A)
+http://117tv.icu:8080/live/X5xRz0/944877/79913.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US SUNDANCE
+http://117tv.icu:8080/live/X5xRz0/944877/46712.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Syfy (East)
+http://117tv.icu:8080/live/X5xRz0/944877/46685.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US TBN
+http://117tv.icu:8080/live/X5xRz0/944877/21895.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA TV", US TBS
+http://117tv.icu:8080/live/X5xRz0/944877/20867.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Golf Channel
+http://117tv.icu:8080/live/X5xRz0/944877/46728.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US The Weather Channel (A)
+http://117tv.icu:8080/live/X5xRz0/944877/18926.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US TLC (East)
+http://117tv.icu:8080/live/X5xRz0/944877/46691.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA TV", US TLC East
+http://117tv.icu:8080/live/X5xRz0/944877/12734.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US TLC (east)
+http://117tv.icu:8080/live/X5xRz0/944877/47703.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US TNT (West)
+http://117tv.icu:8080/live/X5xRz0/944877/46688.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA TV", US TNT East
+http://117tv.icu:8080/live/X5xRz0/944877/10455.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" group-title="USA TV", US Travel Channel East
+http://117tv.icu:8080/live/X5xRz0/944877/9315.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA TV", US TRUTV East
+http://117tv.icu:8080/live/X5xRz0/944877/10224.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", CA Turner Classic Movies
+http://117tv.icu:8080/live/X5xRz0/944877/66242.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US TV Land
+http://117tv.icu:8080/live/X5xRz0/944877/46696.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="USA TV", USA: TV Land Classic HD
+http://117tv.icu:8080/live/X5xRz0/944877/9271.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png" group-title="USA TV", US TV One
+http://117tv.icu:8080/live/X5xRz0/944877/20868.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Univision (East) (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/46692.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png" group-title="USA TV", US Up TV (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/10525.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="USA TV", US USA Network (East)
+http://117tv.icu:8080/live/X5xRz0/944877/10252.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US VH1 (East)
+http://117tv.icu:8080/live/X5xRz0/944877/46705.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png" group-title="USA TV", US VH1
+http://117tv.icu:8080/live/X5xRz0/944877/7404.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US VICELAND
+http://117tv.icu:8080/live/X5xRz0/944877/46697.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US WAPA America
+http://117tv.icu:8080/live/X5xRz0/944877/76481.m3u8
+
+#EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="USA TV", US WE tv
+http://117tv.icu:8080/live/X5xRz0/944877/9237.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA TV", US World Fishing Network (F)
+http://117tv.icu:8080/live/X5xRz0/944877/10477.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US TUDN (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/82241.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US GAC Family
+http://117tv.icu:8080/live/X5xRz0/944877/104877.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Longhorn Network
+http://117tv.icu:8080/live/X5xRz0/944877/105257.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Latin Univision
+http://117tv.icu:8080/live/X5xRz0/944877/108248.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US: QVC
+http://117tv.icu:8080/live/X5xRz0/944877/117707.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Game Show Network
+http://117tv.icu:8080/live/X5xRz0/944877/120633.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US True Crime Network (KARE) (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/121130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US The Cowboy Channel (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/122527.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Comet
+http://117tv.icu:8080/live/X5xRz0/944877/125831.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US (FD) Military History
+http://117tv.icu:8080/live/X5xRz0/944877/134832.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Fox News
+http://117tv.icu:8080/live/X5xRz0/944877/135794.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US: CSPAN FHD
+http://117tv.icu:8080/live/X5xRz0/944877/136589.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Start TV
+http://117tv.icu:8080/live/X5xRz0/944877/137680.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US BET Her
+http://117tv.icu:8080/live/X5xRz0/944877/137790.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US (LN) The Country Network
+http://117tv.icu:8080/live/X5xRz0/944877/137791.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US First Nations Experience (WNEO) (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/139753.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Create (WEDU)
+http://117tv.icu:8080/live/X5xRz0/944877/139754.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Twist TV (WTSP) (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/139755.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Poker Go
+http://117tv.icu:8080/live/X5xRz0/944877/140814.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US World Poker Tour
+http://117tv.icu:8080/live/X5xRz0/944877/140815.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Real America's Voice (STV)
+http://117tv.icu:8080/live/X5xRz0/944877/160581.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Al Jazeera
+http://117tv.icu:8080/live/X5xRz0/944877/160711.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US NewsNation
+http://117tv.icu:8080/live/X5xRz0/944877/161450.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Family Entertainment Television
+http://117tv.icu:8080/live/X5xRz0/944877/172481.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Black News Channel (A)
+http://117tv.icu:8080/live/X5xRz0/944877/176811.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US  Space City Home Network
+http://117tv.icu:8080/live/X5xRz0/944877/213668.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="USA TV", US SONY Movies FHD
+http://117tv.icu:8080/live/X5xRz0/944877/2214.m3u8
+
+#EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="USA TV", US Lifetime Movies
+http://117tv.icu:8080/live/X5xRz0/944877/20863.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", US STARZ ENCORE Black
+http://117tv.icu:8080/live/X5xRz0/944877/16141.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="USA TV", USA:  Showtime NEXT
+http://117tv.icu:8080/live/X5xRz0/944877/9316.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", USA:  STARZ EDGE
+http://117tv.icu:8080/live/X5xRz0/944877/16143.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="USA TV", US 5 StarMax
+http://117tv.icu:8080/live/X5xRz0/944877/13381.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US ActionMAX (East)
+http://117tv.icu:8080/live/X5xRz0/944877/21013.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="USA TV", US Cinemax (East)
+http://117tv.icu:8080/live/X5xRz0/944877/13380.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="USA TV", US EPIX (East)
+http://117tv.icu:8080/live/X5xRz0/944877/13214.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1104724.png" group-title="USA TV", US Epix Drive IN (S)
+http://117tv.icu:8080/live/X5xRz0/944877/14193.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="USA TV", USA: Epix Hits
+http://117tv.icu:8080/live/X5xRz0/944877/12744.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="USA TV", US EPIX2 (East)
+http://117tv.icu:8080/live/X5xRz0/944877/12730.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="USA TV", US HBO
+http://117tv.icu:8080/live/X5xRz0/944877/9264.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="USA TV", US HBO 2 (A)
+http://117tv.icu:8080/live/X5xRz0/944877/9816.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="USA TV", US HBO Comedy (East)
+http://117tv.icu:8080/live/X5xRz0/944877/17773.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="USA TV", US HBO Family (East)
+http://117tv.icu:8080/live/X5xRz0/944877/17772.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111252.png" group-title="USA TV", US HBO SIGNATURE (East)
+http://117tv.icu:8080/live/X5xRz0/944877/9266.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="USA TV", US HBO Zone (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/9265.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="USA TV", US HDNET MOVIES
+http://117tv.icu:8080/live/X5xRz0/944877/16265.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="USA TV", US More Max
+http://117tv.icu:8080/live/X5xRz0/944877/17776.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="USA TV", US MovieMAX (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/13480.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="USA TV", US MoviePlex (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/1829.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Cinemax Outermax (X)
+http://117tv.icu:8080/live/X5xRz0/944877/21012.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US RetroPlex (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/66379.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Showtime East
+http://117tv.icu:8080/live/X5xRz0/944877/46214.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="USA TV", US Showtime 2 (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/13219.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="USA TV", US Showtime Extreme (East) (SP)
+http://117tv.icu:8080/live/X5xRz0/944877/13220.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="USA TV", US Showtime Family Zone (East)
+http://117tv.icu:8080/live/X5xRz0/944877/13481.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="USA TV", US Showtime Women (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/17778.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", US Starz Cinema (East)
+http://117tv.icu:8080/live/X5xRz0/944877/17775.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", US Starz Cinema (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/9301.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", US Starz East (S)
+http://117tv.icu:8080/live/X5xRz0/944877/9299.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="USA TV", US Starz Encore Westerns (East)
+http://117tv.icu:8080/live/X5xRz0/944877/16263.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", US Starz in Black (East) (H)
+http://117tv.icu:8080/live/X5xRz0/944877/17779.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="USA TV", US Starz West (S)
+http://117tv.icu:8080/live/X5xRz0/944877/21091.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="USA TV", US ThrillerMax (East)
+http://117tv.icu:8080/live/X5xRz0/944877/17774.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US", Carib ESPN
+http://117tv.icu:8080/live/X5xRz0/944877/66372.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Florida (A)
+http://117tv.icu:8080/live/X5xRz0/944877/46794.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Willow Cricket (S)
+http://117tv.icu:8080/live/X5xRz0/944877/58847.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Willow Cricket (X)
+http://117tv.icu:8080/live/X5xRz0/944877/41979.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Southeast
+http://117tv.icu:8080/live/X5xRz0/944877/81111.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US NBC Sports Network (F)
+http://117tv.icu:8080/live/X5xRz0/944877/46725.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="USA TV", US: WWE NETWORK
+http://117tv.icu:8080/live/X5xRz0/944877/11645.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/northwest/2017/08/23/nbcsportsnw.png" group-title="USA TV", US Root Sports Northwest
+http://117tv.icu:8080/live/X5xRz0/944877/20942.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Detroit (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20930.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Midwest (A)
+http://117tv.icu:8080/live/X5xRz0/944877/66795.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Oklahoma (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20934.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Southeast
+http://117tv.icu:8080/live/X5xRz0/944877/2213.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Southwest
+http://117tv.icu:8080/live/X5xRz0/944877/21843.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports West
+http://117tv.icu:8080/live/X5xRz0/944877/20932.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Wisconsin
+http://117tv.icu:8080/live/X5xRz0/944877/78599.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US", PT Eleven Sports 1 FHD
+http://117tv.icu:8080/live/X5xRz0/944877/35264.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="USA TV", US ESPN NEWS
+http://117tv.icu:8080/live/X5xRz0/944877/17707.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports North (A)
+http://117tv.icu:8080/live/X5xRz0/944877/58827.m3u8
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="USA TV", US Bally Sports San Diego
+http://117tv.icu:8080/live/X5xRz0/944877/20935.m3u8
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="USA TV", US Bally Sports Detroit
+http://117tv.icu:8080/live/X5xRz0/944877/20936.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Ohio (A)
+http://117tv.icu:8080/live/X5xRz0/944877/17752.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US MASN (A)
+http://117tv.icu:8080/live/X5xRz0/944877/65697.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US MASN2
+http://117tv.icu:8080/live/X5xRz0/944877/65698.m3u8
+
+#EXTINF:-1 tvg-logo="https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png" group-title="USA TV", US MSG2 (F)
+http://117tv.icu:8080/live/X5xRz0/944877/21089.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="USA TV", US NBC Sports Bay Area (A)
+http://117tv.icu:8080/live/X5xRz0/944877/9900.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="USA TV", US NBC Sports Boston (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20939.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="USA TV", US NBC Sports California (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20940.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="USA TV", US NBC Sports Chicago
+http://117tv.icu:8080/live/X5xRz0/944877/20941.m3u8
+
+#EXTINF:-1 tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="USA TV", US NBC Sports Network (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/20926.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="USA TV", US NBC Sports Philly (F)
+http://117tv.icu:8080/live/X5xRz0/944877/20943.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA TV", US NBC Sports Washington (F)
+http://117tv.icu:8080/live/X5xRz0/944877/20944.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US NESN (F)
+http://117tv.icu:8080/live/X5xRz0/944877/31637.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="USA TV", US PAC12 Mountain (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16493.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="USA TV", US PAC12 Washington (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16571.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US ESPN SEC Network
+http://117tv.icu:8080/live/X5xRz0/944877/17608.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA TV", US Spectrum SportsNet LA Dodgers (HD)
+http://117tv.icu:8080/live/X5xRz0/944877/31636.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA TV", US Spectrum SportsNet Lakers (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/21842.m3u8
+
+#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png" group-title="USA TV", US Tennis Channel
+http://117tv.icu:8080/live/X5xRz0/944877/20184.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US YES Network
+http://117tv.icu:8080/live/X5xRz0/944877/57972.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA TV", US Spectrum SportsNet Lakers (FHD)
+http://117tv.icu:8080/live/X5xRz0/944877/20946.m3u8
+
+#EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/vjPoCrRZM-0Guub5k9HskQWodjmjP1OF3myBvaqLWGE.png" group-title="USA TV", US ACC Network (A)
+http://117tv.icu:8080/live/X5xRz0/944877/9273.m3u8
+
+#EXTINF:-1 tvg-logo="https://btn.com/wp-content/uploads/2019/12/btn.png" group-title="USA TV", US Big Ten HD
+http://117tv.icu:8080/live/X5xRz0/944877/9828.m3u8
+
+#EXTINF:-1 tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="USA TV", US CBS Sports Network HD
+http://117tv.icu:8080/live/X5xRz0/944877/10454.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="USA TV", US ESPN 2
+http://117tv.icu:8080/live/X5xRz0/944877/2210.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="USA TV", US ESPN 1 (HD)
+http://117tv.icu:8080/live/X5xRz0/944877/14197.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="USA TV", US ESPN 1 (HD)
+http://117tv.icu:8080/live/X5xRz0/944877/9802.m3u8
+
+#EXTINF:-1 tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="USA TV", US ESPNU College Sports
+http://117tv.icu:8080/live/X5xRz0/944877/10255.m3u8
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="USA TV", US Fox Sports 1
+http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
+
+#EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="USA TV", US Fox Sports 2 (A)
+http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports North (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20928.m3u8
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="USA TV", US Bally Sports Carolinas (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20929.m3u8
+
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="USA TV", US Bally Sports South
+http://117tv.icu:8080/live/X5xRz0/944877/20931.m3u8
+
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="USA TV", US Bally Sports South (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20922.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="USA TV", US Marquee Sports Network (HD) (A)
+http://117tv.icu:8080/live/X5xRz0/944877/13379.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="USA TV", US MAV TV (F)
+http://117tv.icu:8080/live/X5xRz0/944877/20977.m3u8
+
+#EXTINF:-1 tvg-logo="https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png" group-title="USA TV", US MSG Plus
+http://117tv.icu:8080/live/X5xRz0/944877/9276.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png" group-title="USA TV", US MSG (A)
+http://117tv.icu:8080/live/X5xRz0/944877/21090.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="USA TV", US Latin TUDN (A)
+http://117tv.icu:8080/live/X5xRz0/944877/21644.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="USA TV", US Golf Channel
+http://117tv.icu:8080/live/X5xRz0/944877/9806.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="USA TV", US PAC12 Arizona (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16490.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Pac-12_Networks_logo.png" group-title="USA TV", US PAC12 BayArea (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16491.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="USA TV", US PAC12 LosAngeles (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16492.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/pac-12-logo-png-4.png" group-title="USA TV", US PAC12 Network (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16494.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="USA TV", US PAC12 Oregon (F)
+http://117tv.icu:8080/live/X5xRz0/944877/16532.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png" group-title="USA TV", US Sportsnet New York (SNY) (A)
+http://117tv.icu:8080/live/X5xRz0/944877/20938.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="USA TV", US Latin TUDN (A)
+http://117tv.icu:8080/live/X5xRz0/944877/11885.m3u8
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png" group-title="USA TV", US TVG Network
+http://117tv.icu:8080/live/X5xRz0/944877/10259.m3u8
+
+#EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvg2.png" group-title="USA TV", US TVG2 Network
+http://117tv.icu:8080/live/X5xRz0/944877/18940.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.crossovermediagroup.com/wp-content/uploads/2018/09/vsin.png" group-title="USA TV", US VSiN (F)
+http://117tv.icu:8080/live/X5xRz0/944877/18941.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Root Sports
+http://117tv.icu:8080/live/X5xRz0/944877/85232.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Sun
+http://117tv.icu:8080/live/X5xRz0/944877/104917.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US AT&T SportsNet Pittsburgh
+http://117tv.icu:8080/live/X5xRz0/944877/108178.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANADA TV", CA One Soccer
+http://117tv.icu:8080/live/X5xRz0/944877/135810.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US AT&T SportsNet Southwest (F)
+http://117tv.icu:8080/live/X5xRz0/944877/136909.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK TV", UK: SKY SPORTS ARENA FHD
+http://117tv.icu:8080/live/X5xRz0/944877/137719.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK TV", UK: SKY SPORTS MAIN EVENT HD
+http://117tv.icu:8080/live/X5xRz0/944877/137720.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", US Bally Sports Great Lake
+http://117tv.icu:8080/live/X5xRz0/944877/139272.m3u8
+
 
 =========================================================================================
 =======================================   EPL  =======================================
